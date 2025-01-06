@@ -1,4 +1,4 @@
-This organisation features resources of **CBGL**, the Cumulative-Absolute-Error-per-Ray-based Global Localisation method. CBGL may localise a 2D LIDAR sensor in a map of its environment given only one LIDAR measurement and the map.
+This organisation features resources around **CBGL**, the Cumulative-Absolute-Error-per-Ray-based Global Localisation method. CBGL may localise a 2D LIDAR sensor in a map of its environment given only one LIDAR measurement and the map.
 
 - [cbgl](https://github.com/cbgl/cbgl) contains the `roscpp` source code and `docker`-related files for building and deploying it
 - [IROS-2024-paper](https://github.com/cbgl/IROS-2024-paper) contains the source `tex` code of the paper titled "CBGL: Fast Monte Carlo Passive Global Localisation
