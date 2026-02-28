@@ -2,7 +2,7 @@ This organisation contains resources around **CBGL**, the [Cumulative-Absolute-E
 
 Repositories:
 
-- [cbgl](https://github.com/cbgl/cbgl) contains the `roscpp` source code and `docker`-related files for building and deploying it
+- [cbgl](https://github.com/cbgl/cbgl) contains the `roscpp` source code and `docker`-related files for building and deploying it (ROS Kinetic)
 - [IROS-2024-paper](https://github.com/cbgl/IROS-2024-paper) contains the source `tex` code of the paper titled "CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor", presented at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems, held at Abu Dhabi, UAE
 - [IROS-2024-presentations-resources](https://github.com/cbgl/IROS-2024-presentations-resources) contains material related to the presentation of CBGL, namely the poster and pitch required by IROS 2024, CBGL in graphical abstract form, its full presentation, and video illustration of its methodology and key properties
 - [ros-experiments-src](https://github.com/cbgl/ros-experiments-src) contains the source `C++` code of CBGL as well as that of state-of-the-art methods that was used to test the methods' performance in global localisation with `ROS`, featured in section V "Experimental Evaluation" of the paper
